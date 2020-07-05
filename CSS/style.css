@@ -1,0 +1,16 @@
+body{
+  font-family: sans-serif;
+  margin: 200px;
+  text-align: center;
+  color:#fff
+}
+
+#clock{
+  font-weight: bold;
+  font-size: 100px;
+}
+
+#hex-color{
+  font-weight: bold;
+  font-size: 48px;
+}
